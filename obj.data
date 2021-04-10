@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/yolo-mask-detection/train.txt
+valid  = /content/yolo-mask-detection/valid.txt
+names = /content/yolo-mask-detection/obj.names
+backup = backup/
